@@ -1,3 +1,5 @@
+//28 september scannerclass
+
 import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
